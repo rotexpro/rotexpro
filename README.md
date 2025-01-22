@@ -71,9 +71,9 @@ Over the years, I’ve worked on challenging projects, from senior thesis design
 ---
 
 ### 📬 Let’s Connect
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/rotimi-abayomi/)  
-- **Portfolio**: [Your Portfolio](https://yourportfolio.com)  
-- **Email**: [yourname@example.com](mailto:rotimiabayomi123@gmail.com)
+- **LinkedIn**: [Rotimi's LinkedIn Profile](https://www.linkedin.com/in/rotimi-abayomi/)  
+- **Portfolio**: [Rotimi's Portfolio](https://yourportfolio.com)  
+- **Email**: [Rotimi's Mail](mailto:rotimiabayomi123@gmail.com)
 
 ---
 
