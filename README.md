@@ -57,16 +57,9 @@ Welcome to my GitHub profile! I am a passionate **Backend Developer** with 3 yea
 
 ### 📚 My Coding Journey
 
-My coding story began with curiosity, guided by my father, and has evolved into a thriving career as a software engineer. During my academic journey, I realized the power of code to solve problems and enhance lives. I started as an intern backend engineer, where I honed my skills in Java, Spring, and data structures, which remain the backbone of my expertise. 
+My coding story began with curiosity, guided by my father, and has evolved into a thriving career as a software engineer. Throughout my academic journey, I have come to realize the power of code to solve problems and improve lives. I started as an intern backend engineer, where I honed my skills in Java, Spring, and data structures, which remain the backbone of my expertise. 
 
-Over the years, I’ve worked on challenging projects, from senior thesis designs to enterprise-grade systems. This journey has been a mix of learning, exploring, and building tools that make a difference.
-
----
-
-### 🌱 Currently Learning
-- Advanced System Design  
-- Microservices Architecture  
-- Kubernetes & Docker for scalable deployments  
+Over the years, I’ve worked on challenging projects, ranging from senior thesis designs to enterprise-grade systems. This journey has been a mix of learning, exploration, and building tools that make a meaningful difference.
 
 ---
 
